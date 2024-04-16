@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fbnktw
+- 👋 Hi, I’m Fabian K.
 - 👀 I’m interested in everything that helps me understanding.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on a company.
